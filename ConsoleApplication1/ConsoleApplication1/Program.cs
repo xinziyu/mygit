@@ -10,11 +10,16 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             method1();
+            dev2();
         }
 
         private static void method1()
         {
-            Console.WriteLine("release");
+            Console.WriteLine("dev2");
+        }
+        private static void dev2()
+        {
+            Console.WriteLine("dev2");
         }
     }
 }
