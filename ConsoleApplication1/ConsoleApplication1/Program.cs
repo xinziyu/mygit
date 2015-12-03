@@ -14,7 +14,7 @@ namespace ConsoleApplication1
 
         private static void method1()
         {
-            Console.WriteLine("123");
+            Console.WriteLine("release");
         }
     }
 }
