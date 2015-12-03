@@ -21,5 +21,9 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("dev11");
         }
+        public static void release()
+        {
+            Console.WriteLine("release");
+        }
     }
 }
