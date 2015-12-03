@@ -21,5 +21,9 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("dev11");
         }
+        public static void dev3()
+        {
+            Console.WriteLine("dev3");
+        }
     }
 }
